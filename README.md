@@ -30,3 +30,14 @@ Traffic Splitting
 <img width="1023" alt="image" src="https://github.com/user-attachments/assets/0996f88b-3167-4bb6-922e-41d65bd15ea1">
 
 
+Key Building blocks -
+
+1. VirtualService
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/ca571ee7-82e9-45ba-803a-2a5e73706f0a">
+
+2. DestinationRule
+<img width="644" alt="image" src="https://github.com/user-attachments/assets/20530e6f-4902-4d9f-901f-9d033d9dc76a">
+
+
+
+
