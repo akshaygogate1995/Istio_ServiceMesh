@@ -38,6 +38,16 @@ Key Building blocks -
 2. DestinationRule
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/20530e6f-4902-4d9f-901f-9d033d9dc76a">
 
+Follow -
+
+1. We create CRD's
+2. Istio converts these high level routing rules into Envoy-specific configurations.
+3. Configuration is propagated into Proxy SideCars.
+
+Proxies can communicate without connecting to IstioD by doing above steps.
+Istio provides - Configuration, service discovery, certificate management, gather telemetry data
+
+
 
 
 
